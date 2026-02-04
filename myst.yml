@@ -23,10 +23,12 @@ project:
     - title: Workshops
       file: workshops/index.md
       children:
-        - file: workshops/bioind4/index.md
-        - file: workshops/bioind4/project-creation.md
-        - file: workshops/bioind4/populating.md
-        - file: workshops/bioind4/registring-data.md
+        - title: Bioindustry 4.0
+          file: workshops/bioind4/index.md
+          children:
+            - file: workshops/bioind4/project-creation.md
+            - file: workshops/bioind4/populating.md
+            - file: workshops/bioind4/registring-data.md
       
 
 site:
