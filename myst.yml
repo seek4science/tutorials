@@ -1,0 +1,41 @@
+version: 1
+project:
+  title: FAIRDOM-SEEK Tutorials
+  authors:
+    - name:
+        literal: FAIRDOM-SEEK
+  github: https://github.com/seek4science/tutorials
+  toc:
+    - file: intro.md
+    - title: Introduction Tutorials
+      file: tutorials/introduction/index.md
+      children:
+        - file: tutorials/introduction/overview.md
+        - file: tutorials/introduction/getting-started.md
+        - file: tutorials/introduction/isa-structure.md
+        - file: tutorials/introduction/uploading-data.md
+        - file: tutorials/introduction/sharing.md
+    - title: Advanced Tutorials
+      file: tutorials/advanced/index.md
+      children:
+      - file: tutorials/advanced.md
+      - file: tutorials/api.md
+      - file: notebooks/example.ipynb
+    - title: Workshops
+      file: workshops/index.md
+      children:
+        - file: workshops/workshop-bioind4-2026-02.md
+      
+
+site:
+  title: FAIRDOM-SEEK Tutorials
+  options:
+    favicon: "./images/favicon.png"
+    logo: "./images/favicon.png"
+    logo_text: FAIRDOM-SEEK Tutorials
+    base_url: /tutorials
+    hide_footer_links: true
+  actions:
+    - title: GitHub
+      url: https://github.com/seek4science/tutorials
+  template: book-theme
