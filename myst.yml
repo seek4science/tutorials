@@ -20,7 +20,6 @@ project:
       children:
       - file: tutorials/advanced.md
       - file: tutorials/api.md
-      - file: notebooks/example.ipynb
     - title: Workshops
       file: workshops/index.md
       children:

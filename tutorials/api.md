@@ -347,5 +347,5 @@ def batch_operation(items, operation, delay=0.5):
 ## Next Steps
 
 - Review the full [API documentation](https://docs.seek4science.org/tech/api/)
-- Explore the [fairdom-seek Python client](https://github.com/seek4science/seekr)
+- Explore the [SEEK API documentation](https://docs.seek4science.org/tech/api/)
 - Check the [JSON:API specification](https://jsonapi.org/)

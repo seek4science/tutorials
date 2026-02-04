@@ -188,4 +188,4 @@ Sync with openBIS for raw data:
 
 - Explore the [API Tutorial](api.md) for programmatic access
 - Review [SEEK Administration Guide](https://docs.seek4science.org/tech/administration.html)
-- Join the [FAIRDOM community](https://fair-dom.org/community)
+- Join the [FAIRDOM community](https://fair-dom.org)

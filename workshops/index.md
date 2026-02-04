@@ -4,4 +4,4 @@ In this section you will find materials and resources from various workshops rel
 
 ## Available Workshops
 
-- **[Bioindustry 4.0 - Feb 2026](workshops/workshop-bioind4-2026-02)** - A comprehensive workshop geared towards new and existing users of FAIRDOM-SEEK within the Bioindustry 4.0 project.
+- **[Bioindustry 4.0 - Feb 2026](workshop-bioind4-2026-02.md)** - A comprehensive workshop geared towards new and existing users of FAIRDOM-SEEK within the Bioindustry 4.0 project.

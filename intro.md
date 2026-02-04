@@ -14,7 +14,7 @@ FAIRDOM-SEEK is a web-based platform for sharing heterogeneous scientific resear
 
 This book is organized into the following sections:
 
-- **[Introduction Tutorial](tutorials/introduction.md)** - Getting started with SEEK basics
+- **[Introduction Tutorial](tutorials/introduction/index.md)** - Getting started with SEEK basics
 - **[Advanced Tutorial](tutorials/advanced.md)** - Power user features and administration
 - **[API Tutorial](tutorials/api.md)** - Programmatic access via the JSON API
 - **Notebooks** - Interactive Jupyter notebook examples
