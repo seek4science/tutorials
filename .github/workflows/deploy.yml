@@ -44,7 +44,7 @@ jobs:
         env:
           BASE_URL: /tutorials
         run: |
-          jupyter-book build --html --no-serve
+          jupyter-book build --html --strict
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
