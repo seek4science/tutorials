@@ -1,3 +1,5 @@
+# UNDER DEVELOPMENT
+
 # Uploading Data
 
 Learn how to add and manage research assets in FAIRDOM-SEEK.
@@ -6,14 +8,14 @@ Learn how to add and manage research assets in FAIRDOM-SEEK.
 
 SEEK supports various asset types:
 
-| Asset Type | Description | Examples |
-|------------|-------------|----------|
-| **Data Files** | Raw or processed data | CSV, Excel, images |
-| **Models** | Computational models | SBML, CellML, MATLAB |
-| **SOPs** | Standard Operating Procedures | Protocols, methods |
-| **Publications** | Published papers | DOI links |
-| **Documents** | Supporting docs | PDFs, Word files |
-| **Presentations** | Slides and posters | PowerPoint, PDF |
+| Asset Type        | Description                   | Examples             |
+|-------------------|-------------------------------|----------------------|
+| **Data Files**    | Raw or processed data         | CSV, Excel, images   |
+| **Models**        | Computational models          | SBML, CellML, MATLAB |
+| **SOPs**          | Standard Operating Procedures | Protocols, methods   |
+| **Publications**  | Published papers              | DOI links            |
+| **Documents**     | Supporting docs               | PDFs, Word files     |
+| **Presentations** | Slides and posters            | PowerPoint, PDF      |
 
 ## Uploading a Data File
 

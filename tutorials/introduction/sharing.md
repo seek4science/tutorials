@@ -1,16 +1,18 @@
+# UNDER DEVELOPMENT
+
 # Sharing & Permissions
 
 Control who can access your research data in FAIRDOM-SEEK.
 
 ## Permission Levels
 
-| Level | Can View | Can Download | Can Edit | Can Manage |
-|-------|----------|--------------|----------|------------|
-| **No access** | ✗ | ✗ | ✗ | ✗ |
-| **View** | ✓ | ✗ | ✗ | ✗ |
-| **Download** | ✓ | ✓ | ✗ | ✗ |
-| **Edit** | ✓ | ✓ | ✓ | ✗ |
-| **Manage** | ✓ | ✓ | ✓ | ✓ |
+| Level         | Can View | Can Download | Can Edit | Can Manage |
+|---------------|----------|--------------|----------|------------|
+| **No access** | ✗        | ✗            | ✗        | ✗          |
+| **View**      | ✓        | ✗            | ✗        | ✗          |
+| **Download**  | ✓        | ✓            | ✗        | ✗          |
+| **Edit**      | ✓        | ✓            | ✓        | ✗          |
+| **Manage**    | ✓        | ✓            | ✓        | ✓          |
 
 ## Sharing Scope
 
@@ -59,12 +61,12 @@ Share with different audiences:
 
 Project membership affects permissions:
 
-| Role | Default Permissions |
-|------|---------------------|
-| **Administrator** | Manage all project assets |
-| **Project Manager** | Edit project assets |
-| **Member** | View/Download project assets |
-| **Guest** | View only |
+| Role                | Default Permissions                    |
+|---------------------|----------------------------------------|
+| **Administrator**   | Manage all project assets              |
+| **Project Manager** | Edit project assets                    |
+| **Member**          | View/Download project assets           |
+| **Guest**           | View only project assets               |
 
 ## Sharing Policies
 
@@ -105,14 +107,14 @@ Some installations support:
 
 ## Summary
 
-| Stage | Recommended Sharing |
-|-------|---------------------|
-| Data collection | Private |
-| Analysis | Project members |
-| Paper submission | Project members |
-| Publication | Public + DOI |
+| Stage            | Recommended Sharing |
+|------------------|---------------------|
+| Data collection  | Private             |
+| Analysis         | Project members     |
+| Paper submission | Project members     |
+| Publication      | Public + DOI        |
 
-## Congratulations!
+## Congratulations
 
 You've completed the Introduction tutorial. Continue with:
 
