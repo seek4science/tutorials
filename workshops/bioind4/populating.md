@@ -45,7 +45,11 @@ Add the sharing permissions you want to associate with the project
 
 Here you can specify who can view the summary of and edit the Investigation
 
-<table><tr><td></td><td>No Access</td><td>View</td><td>Edit</td><td>Manage</td></tr><tr><td>Public</td><td>○</td><td>✓</td><td></td><td></td></tr><tr><td>An inventory of the Aspergillus niger secretome</td><td>○</td><td>✓</td><td>○</td><td>○</td></tr></table>
+|                                   | No Access | View | Edit | Manage |
+|-----------------------------------|-----------|------|------|--------|
+| Public                            | ○         | ✓    |      |        |
+| An inventory of the Aspergillus niger secretome | ○ | ✓ | ○ | ○ |
+
 
 ![images/8694850222c9194833a69094d97253fc4a0298caa5db876663f540b2a7b839a4.jpg](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAWAB4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiszWrtra3VIzh5TgH09aUnZXYm7K5Yn1Kzt22yzqpqWC7guV3Qyq49jXLWkMt5MY4AVQAkyMudxHvWPLLcRzsYi9tN/ECMbh61zuu1q1oZe1t0PR6wPFSlbGO4B/1TdPXPFFFa1fgZpP4WYWma7Np0xjkZnt9pKooGQT3rIvdUmnb7XdMZHY7FwMYFFFec5NpJs47u1j//2Q==)
 

@@ -2,17 +2,21 @@
 
 ## Purpose
 
-To create a project on IBISBAKHub. This tutorial assumes you’ve already created your account on the IBISBAKHub. Instructions to create an account can be found here.
+To create a project on [IBISBAKHub](https://hub.ibisba.eu/). This tutorial assumes you’ve already created your account on the [IBISBAKHub](https://hub.ibisba.eu/). Instructions to create an account can be found here.
 
-For the purpose of this workshop we'll be working on a sandbox environment, where you can freely playaround without the fear of breaking anything. If you're interested to play around create an account on the https://sandbox10.fairdomhub.org/
+For the purpose of this workshop we'll be working on a sandbox environment, where you can freely playaround without the fear of breaking anything. If you're interested to play around create an account on the <https://sandbox10.fairdomhub.org/>
 
-Step1: Go to https://sandbox10.fairdomhub.org/ and “Log in” to your account
+## Step 1
 
-Step2: After logging in click on the “Create” tab and from the pull-down menu select “Project” and a New Project page will open. Fill in the sections using the following information:
+Go to <https://sandbox10.fairdomhub.org/> and “Log in” to your account
+
+## Step 2
+
+After logging in click on the “Create” tab and from the pull-down menu select “Project” and a New Project page will open. Fill in the sections using the following information:
 
 ### Title
 
-Project: An inventory of the Aspergillus niger secretome
+***Project:*** An inventory of the Aspergillus niger secretome
 
 ### Description
 
@@ -24,19 +28,19 @@ Type the name of the Institution: Start typing and if your institute is register
 
 ### Website
 
-For example: “https://www.manchester.ac.uk”
+***For example:*** “<https://www.manchester.ac.uk”>
 
 ### City
 
-For example: Manchester
+***For example:*** Manchester
 
 ### Country
 
-For example: United Kingdom
+***For example:*** United Kingdom
 
 ## Step3
 
-Click the “Submit” button and you will be shown a page to review the details and then the “Create” button. Voila your Project has been created ?.
+Click the “Submit” button and you will be shown a page to review the details and then the “Create” button. Voila your Project has been created!
 
 ### Approval step
 
@@ -48,57 +52,43 @@ Otherwise, an appropriate administrator will be notified by email about your req
 
 Step4: Click on the Actions tab and select: “Manage Project” to edit any details about the project if you wish and add more information for e.g.
 
-Topic annotations:
+***Topic annotations:*** For e.g. Biotechnology
 
-For e.g. Biotechnology
+***Funding codes:*** Fill if applicable, for example "EU Horizon 2020 730976"
 
-Funding codes:
+***Public web page:*** Fill if applicable, for example: “<https://www.ibisba.eu”>
 
-Fill if applicable, for example "EU Horizon 2020 730976"
+***Internal web page:*** Fill if applicable, for example: “<https://www.example.com”>
 
-Public web page:
+***Start date:*** 2025/03/01
 
-Fill if applicable, for example: “https://www.ibisba.eu”
+***End date:*** 2028/12/31
 
-Internal web page:
+***Associated programme:*** Click and choose “IBISBA Workshop” from the list of options
 
-Fill if applicable, for example: “https://www.example.com”
+***Your Institution:*** Click and choose your respective institution from the list
 
-Start date: 2025/03/01 End date: 2028/12/31
+***Organisms:*** Choose “Aspergillus niger” from the list available
 
-Associated programme:
-
-Click and choose “IBISBA Workshop” from the list of options
-
-Your Institution:
-
-Click and choose your respective institution from the list
-
-## Organisms
-
-Choose “Aspergillus niger” from the list available
-
-## Default License
+***Default License:*** This will be the default license for all assets created within this project. You can change the license for individual assets if needed.
 
 From the list choose “Creative Common License”
 
-## Default Sharing Policy
+***Default Sharing Policy***: This will be the default sharing policy for all assets created within this project. You can change the sharing policy for individual assets if needed.
 
-This will be done after the project is created.
+***Discussion Channels:*** (Optional) Add one or more URLs to point to discussion channels related to this Project.
 
-## Discussion Channels
+## Step 5
 
-Add one or more URLs to point to discussion channels related to this Project.
-
-## Otherwise, leave empty
-
-Step5: Again, from the Actions tab select “Administer Project members”:
+Again, from the Actions tab select “Administer Project members”:
 
 1. Write the name of person you wish to add under the Add Members tab
 2. Select the associated Institute name
 3. And click the “Confirm changes” button
 
-Step6: Again, from the Actions tab select “Administer Project members roles”:
+## Step 6
+
+Again, from the Actions tab select “Administer Project members roles”:
 
 1. Add the name of the person you wish to assign administrative roles under Project Administrator
 2. And click the “Confirm changes” button

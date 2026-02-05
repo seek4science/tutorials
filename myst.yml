@@ -29,6 +29,8 @@ project:
             - file: workshops/bioind4/project-creation.md
             - file: workshops/bioind4/populating.md
             - file: workshops/bioind4/registring-data.md
+            - file: workshops/bioind4/registring-samples.md
+            - file: workshops/bioind4/registring-samples-template.md
       
 
 site:
