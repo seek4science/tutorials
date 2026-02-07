@@ -30,29 +30,24 @@ Choose one of:
 
 - **Local file** - Upload from your computer
 - **Remote URL** - Link to external storage
-- **Previous version** - Update existing file
 
 ### Step 3: Add Metadata
 
 Required fields:
 
 - **Title** - Descriptive name
-- **Projects** - Associated project(s)
+- **Projects** - Associated project
 
 Recommended fields:
 
 - **Description** - What the data contains
 - **Tags** - Keywords for discovery
-- **License** - Usage terms
 
-### Step 4: Link to ISA
+### Step 4: Set template (if applicable)
 
-Associate with your research structure:
+If your SEEK instance has templates configured, you may be prompted to select a template that matches your data type. This will pre-populate metadata fields and ensure consistency. In addition you can also set Data type and format annotations to further describe the content of your data file.
 
-- Select relevant **Assay(s)**
-- Or link to **Study** if no Assay exists
-
-### Step 5: Set Permissions
+### Step 5: Set License & Permissions
 
 Choose who can access:
 
@@ -60,7 +55,25 @@ Choose who can access:
 - **Project members** - Your collaborators
 - **Public** - Everyone
 
-### Step 6: Create
+### Step 6: Link to ISA
+
+Associate with your research structure:
+
+- Select relevant **Assay(s)**
+- Or create a new Assay and link the data file to it
+
+### Step 7: Other associated items
+
+Optionally, you can also link your data file to other associated items such as:
+
+- **Publications** - Link to related papers
+- **Discussion Channels** - Add URLs for related discussions
+- **Attributions** - Link to other assets such as models, SOPs, etc. that are relevant to the data file you are uploading.
+- **Events** - Link to events such as conferences, workshops, etc. that are relevant to the data file you are uploading.
+- **Workflows** - Link to workflows that are relevant to the data file you are uploading.
+- **Observation Units** - Link to observation units that are relevant to the data file you are uploading.
+
+### Step 8: Create
 
 Click **Create** to finish upload.
 

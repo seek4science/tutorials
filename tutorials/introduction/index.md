@@ -1,13 +1,3 @@
-# UNDER DEVELOPMENT
-
 # Introduction to FAIRDOM-SEEK
 
-This tutorial series covers the basics of using FAIRDOM-SEEK for managing and sharing your research data.
-
-## What you'll learn
-
-1. **[Overview](overview.md)** - What is SEEK and why use it
-2. **[Getting Started](getting-started.md)** - Creating an account and navigating the interface
-3. **[ISA Structure](isa-structure.md)** - Understanding Projects, Investigations, Studies, and Assays
-4. **[Uploading Data](uploading-data.md)** - Adding and managing your research assets
-5. **[Sharing & Permissions](sharing.md)** - Controlling access to your data
+This tutorial series covers the basics of using FAIRDOM-SEEK for managing and sharing your research data. In addition to the general introduction, there are specific tutorials for different workshops, such as the Bioindustry 4.0 workshop. Each tutorial will guide you through the steps of creating projects, managing data, and collaborating with others using FAIRDOM-SEEK.

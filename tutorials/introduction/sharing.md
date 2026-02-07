@@ -1,5 +1,3 @@
-# UNDER DEVELOPMENT
-
 # Sharing & Permissions
 
 Control who can access your research data in FAIRDOM-SEEK.

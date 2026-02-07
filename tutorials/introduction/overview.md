@@ -1,5 +1,3 @@
-# UNDER DEVELOPMENT
-
 # What is FAIRDOM-SEEK?
 
 FAIRDOM-SEEK is a web-based platform for sharing heterogeneous scientific research datasets, models, simulations, processes, and research outcomes.
@@ -21,10 +19,19 @@ SEEK is used by research communities worldwide, including:
 - Research data managers
 - Core facilities
 
+For an up to date list of SEEK instances, please refer to the [FAIRDOM-SEEK In Use](https://fair-dom.org/fairdom-in-use/).
+
 ## Public Instances
 
 - [FAIRDOMHub](https://fairdomhub.org) - Open to all researchers
-- Institution-specific installations
+
+## Topic specific instances
+
+- [IBISBA](https://ibisba.eu) - Industrial Biotechnology Innovation and Synthetic Biology Accelerator Knowledge Hub
+
+## Under development
+
+- [DataHub](https://datahub.elixir-belgium.org) - ELIXIR Belgium DataHub
 
 ## Next Steps
 

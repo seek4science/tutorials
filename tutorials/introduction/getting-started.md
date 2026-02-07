@@ -1,5 +1,3 @@
-# UNDER DEVELOPMENT
-
 # Getting Started
 
 This guide walks you through creating an account and navigating FAIRDOM-SEEK.

@@ -1,10 +1,8 @@
-# UNDER DEVELOPMENT
+# Welcome to FAIRDOM-SEEK Tutorials
 
-This book is currently under development. Content may change frequently and is not yet complete. Please check back later for the finalized version.
+## UNDER DEVELOPMENT
 
-## Welcome to FAIRDOM-SEEK Tutorials
-
-This book contains tutorials and guides for working with FAIRDOM-SEEK.
+> This book is currently under development. Content may change frequently and is not yet complete. Please check back later for the finalized version.
 
 ## What is FAIRDOM-SEEK?
 
