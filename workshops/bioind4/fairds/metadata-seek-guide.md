@@ -2,25 +2,21 @@
 
 ## Introduction
 
-This document provides guidance on how to populate the FAIRDOM-SEEK environment with your validated metadata file.
+This document provides guidance on how to populate the IBISBA Knowledge Hub with your validated metadata file.
 
-A sandbox environment has been created for you to practice the steps in this guide. The sandbox environment is a safe space for you to learn how to use FAIRDOM-SEEK without affecting the real data.
-
-The sandbox environment is available at [https://sandbox10.fairdomhub.org](https://sandbox10.fairdomhub.org).
-
-
-First you need to have access to a project within the FAIRDOM-SEEK environment. If you do not have access to a project, please create one.
+First you need to have access to a project within the IBISBA Knowledge Hub. If you do not have access to a project, please request one.
 
 After you have access to a project, you can start populating it with your metadata file.
 
 Make sure you have the following file ready:
+
 - A validated RDF file from your metadata excel file.
 
 ## Uploading the RDF file
 
 To upload the RDF file, follow these steps:
 
-- Log in to the FAIRDOM-SEEK environment.
+- Log in to the IBISBA Knowledge Hub environment.
 - Go to the project where you want to upload the RDF file.
 - Click on Actions
 - Click on Import from FAIR Data Station

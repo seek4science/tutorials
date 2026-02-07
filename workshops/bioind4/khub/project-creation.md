@@ -2,13 +2,11 @@
 
 ## Purpose
 
-To create a project on [IBISBAKHub](https://hub.ibisba.eu/). This tutorial assumes you’ve already created your account on the [IBISBAKHub](https://hub.ibisba.eu/). Instructions to create an account can be found here.
-
-For the purpose of this workshop we'll be working on a sandbox environment, where you can freely playaround without the fear of breaking anything. If you're interested to play around create an account on the <https://sandbox10.fairdomhub.org/>
+To create a project on [IBISBAKHub](https://hub.ibisba.eu/). This tutorial assumes you’ve already created your account on the [IBISBAKHub](https://hub.ibisba.eu/). Instructions to create an account can be found [here].
 
 ## Step 1
 
-Go to <https://sandbox10.fairdomhub.org/> and “Log in” to your account
+Go to <https://hub.ibisba.eu/> and “Log in” to your account
 
 ## Step 2
 
