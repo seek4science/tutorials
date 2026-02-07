@@ -23,7 +23,7 @@ project:
     - title: Workshops
       file: workshops/index.md
       children:
-        - title: Bioindustry 4.0
+        - title: Bioindustry 4.0 - 2026
           file: workshops/bioind4/index.md
           children:
             - file: workshops/bioind4/project-creation.md
@@ -31,7 +31,7 @@ project:
             - file: workshops/bioind4/registring-data.md
             - file: workshops/bioind4/registring-samples.md
             - file: workshops/bioind4/registring-samples-template.md
-        - title: IBISBA
+        - title: IBISBA - 2025
           file: workshops/ibisba/index.md
           children:
           - title: FAIR Data Management through the IBISBA Knowledge Hub!
