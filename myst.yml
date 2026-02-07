@@ -37,6 +37,7 @@ project:
                 - file: workshops/bioind4/khub/project-creation.md
                 - file: workshops/bioind4/khub/populating.md
                 - file: workshops/bioind4/khub/registring-data.md
+                - file: workshops/bioind4/khub/registring-model.md
                 - file: workshops/bioind4/khub/registring-samples.md
                 - file: workshops/bioind4/khub/registring-samples-template.md
         - title: IBISBA - 2025
