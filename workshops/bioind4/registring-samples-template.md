@@ -4,7 +4,7 @@ You can bulk-create samples by populating a template and uploading as a Datafile
 
 ## Step 1
 
-Download the file “3.Samples_A.Niger.xlsx” from the IBISBA_WorkShop_Material
+Download the file [Samples_A.Niger.xlsx](data/Samples_A.Niger.xlsx)
 
 ## Step 2
 

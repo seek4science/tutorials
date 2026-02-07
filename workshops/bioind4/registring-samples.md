@@ -12,7 +12,7 @@ In this section we will be creating Samples using a spreadsheet containing the *
 
 ## Step 1
 
-Download the file “3.Samples_A.Niger.xlsx” from the IBISBA_WorkShop_Material
+Download the file [Samples_A.Niger.xlsx](data/Samples_A.Niger.xlsx)
 
 ## Step 2
 

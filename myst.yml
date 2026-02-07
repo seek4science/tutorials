@@ -31,6 +31,23 @@ project:
             - file: workshops/bioind4/registring-data.md
             - file: workshops/bioind4/registring-samples.md
             - file: workshops/bioind4/registring-samples-template.md
+        - title: IBISBA
+          file: workshops/ibisba/index.md
+          children:
+          - title: FAIR Data Management through the IBISBA Knowledge Hub!
+            children:
+            - file: workshops/ibisba/project-creation.md
+            - file: workshops/ibisba/populating-project-guide.md
+            - file: workshops/ibisba/registering-datafiles-guide.md
+          - title: FAIR Metada Registration
+            children:
+              - file: workshops/ibisba/fairds/recording-metadata-guide.md
+              - file: workshops/ibisba/fairds/metadata-configurator-guide.md
+              - file: workshops/ibisba/fairds/metadata-validation-guide.md
+              - file: workshops/ibisba/fairds/metadata-seek-guide.md
+          - title: Semantic Web
+            children:
+              - file: workshops/ibisba/semantic-web/seek-semantic-web-guide.md
       
 
 site:

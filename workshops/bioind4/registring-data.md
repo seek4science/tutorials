@@ -4,10 +4,10 @@
 
 ## Step 1
 
-Download the datafiles provided in the IBISBA_WorkShop_Material:
+Download the datafiles provided in the workshop material:
 
-1. MassSpec_Results.xls
-2. ProteinModelReannotation.doc
+1. [MassSpec_Results.xls](data/MassSpec_Results.xls)
+2. [ProteinModelReannotation.doc](data/ProteinModelReannotation.doc)
 
 ## Step2
 
