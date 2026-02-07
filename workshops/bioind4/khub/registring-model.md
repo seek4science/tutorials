@@ -4,7 +4,7 @@
 
 Download the model file provided in the workshop material:
 
-- [ProteinModelReannotation.doc](data/ProteinModelReannotation.doc)
+- [penicillin_SVM_features_scaler.pkl](data/0007_[Python]_penicillin_SVM_features_scaler.pkl)
 
 ## Step 1
 
@@ -18,22 +18,21 @@ You can register your Model by either registering a URL or by uploading a file.
 
 Fill in the sections using the following information:
 
-***Title:*** Protein Model Reannotation of Aspergillus Niger
+***Title:*** Penicillin SVM features scaler model
 
-***Description:*** Reannotation of the protein model for A. niger N402 secretome based on high-throughput mass spectrometry analysis
-
+***Description:*** Support Vector Regression (SVR) is a machine learning algorithm that applies the principles of Support Vector Machines (SVM) to regression tasks. It supports various kernels for complex patterns.
 
 ## Section 3
 
-***Projects:*** Assign this model to the project to which it belongs:
+***Projects:*** Assign this model to a project you are part of
 
-**Project:** An inventory of Aspergillus niger secrotome
+<!-- **Project:** An inventory of Aspergillus niger secrotome -->
 
 ***Note:*** You might get a pop-up message stating: "\<Project name> has a default sharing policy specified, do you want to apply it? NOTE that this will overwrite any previously defined permissions. Click "OK" to apply the default sharing policy or "Cancel" to keep the current permissions and not apply the default sharing policy."
 
 ## Section 4
 
-License 
+License
 
 ***License:*** From the list choose "Creative Common License"
 
