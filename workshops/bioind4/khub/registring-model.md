@@ -44,9 +44,9 @@ You can associate this model with an existing discussion channel or create a new
 
 ## Section 6 - Model type details
 
-- Model type: Choose the model type from the list. For e.g. "Agent Based Modelling"
-- Model format: Choose the model format from the list. For e.g. "SBML"
-- Preferred execution or visualisation environment: Choose the environment from the list. For e.g. "COPASI"
+- Model type: Choose the model type from the list. For e.g. "Support Vector Machine"
+- Model format: Choose the model format from the list. For e.g. "Python code"
+- Preferred execution or visualisation environment: Choose the environment from the list. For e.g. "Python"
 
 ## Section 7 - Organism details
 
